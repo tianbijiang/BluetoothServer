@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">BluetoothServer</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="resume">Resume</string>
+    <string name="pause">Pause</string>
+    <string name="connect">Online</string>
+    <string name="disconnect">Off line</string>
+    <color name="statuscolor">#ff0000</color>
+
+    <string-array name="sample_rates_array">
+        <item>3</item>
+        <item>360</item>
+        <item>300</item>
+        <item>400</item>
+        <item>500</item>
+    </string-array>
+
+    <string-array name="data_array">
+        <item>Sample data</item>
+        <item>No Data</item>
+    </string-array>
+
+</resources>
